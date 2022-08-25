@@ -10,7 +10,7 @@ Want to test your knowledge on basic coding? Give the quiz a try!
 ![Preview](./Screenshot%202022-08-24%20234554.png)
 
 ## Usage
-Step 1: Load the weboagepage by clicking on the url here: https://alemus98.github.io/Muliple-Choice-Quiz/
+Step 1: Load the webpage by clicking on the url here: https://alemus98.github.io/Muliple-Choice-Quiz/
 
 Step 2: Click the "start" button to start the quiz and the timer.
 
